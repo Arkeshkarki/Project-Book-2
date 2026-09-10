@@ -11,6 +11,7 @@
 <p>
  <nav>
       <ul>
+      <li><a href="index.html">Home</a></li>
       <li><a href="Text.html">Text</a></li>
         <li><a href="video.html">Video</a></li>
         <li><a href="audio.html">Audio</a></li>
