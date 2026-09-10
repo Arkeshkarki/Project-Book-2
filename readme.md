@@ -8,7 +8,7 @@
 <body>
 <header>
 <h1>Welcome to Multimedia Project</h1>
-</header>
+
 <br>
 
 <p>
@@ -22,4 +22,8 @@
       </ul>
  </nav>
  </p>
+ </header>
+   <footer>
+    <p>2026 Aarkesh | Built with using GitHub Pages</p>
+  </footer>
  </body>
