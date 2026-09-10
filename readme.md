@@ -8,9 +8,6 @@
 <body>
 <header>
 <h1>Welcome to Multimedia Project</h1>
-
-<br>
-
 <p>
  <nav>
       <ul>
